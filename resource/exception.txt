@@ -1,0 +1,17 @@
+1. JVM 이 예외를 던지는 방법 
+https://stackoverflow.com/questions/27086622/how-does-jvm-throw-an-exception
+
+2. (임도형) 예외 처리 가이드 
+https://01010011.blog/2017/03/08/%ED%8E%8C-%EC%9E%84%EB%8F%84%ED%98%95-%EB%8B%98%EC%9D%98-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-%EA%B0%80%EC%9D%B4%EB%93%9C/
+
+3. spring sql exception 처리 
+https://webprogrammer.tistory.com/m/2448?category=149261
+
+4. Java throws vs throw 
+https://vitalholic.tistory.com/246
+
+5. 이팩티브 자바 예외 항목 
+
+(자바 프로그램 안에서 예외 던지는 모습 찾아보기) 
+(커스텀 error 만드는 것도 잠깐 참고용으로 보기 
+--> 어지간하면 커스텀 에러 만들지 말라고 해서. )
