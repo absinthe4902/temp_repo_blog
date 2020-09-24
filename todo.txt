@@ -1,0 +1,6 @@
+1. 노션에 추가로 해볼것 항목에 써둔거 하기 (금요일)
+2. git cheat sheet 만들기+ 수시로 업데이트
+3. 파일 다운 로드 하는 코드 정리
+4. 엑셀 어노테이션과 수정판 primitive 클래스  쓴거 정리
+5. box-sizing 이랑 글자 간격 잡아주는word-break:break-all 정리
+6. ajax 로딩시 progress bar 나오는 그거 정리
